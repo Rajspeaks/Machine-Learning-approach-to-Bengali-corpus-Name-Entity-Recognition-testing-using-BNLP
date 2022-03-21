@@ -1,1 +1,1 @@
-# Bengali Word Tokenization using Word2Vec Model from Gensim
+# Bengali Word Embedding using FastText from BNLP
