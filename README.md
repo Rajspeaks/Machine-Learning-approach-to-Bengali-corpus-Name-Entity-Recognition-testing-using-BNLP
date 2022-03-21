@@ -1,1 +1,1 @@
-# Bengali Word Embedding using FastText from BNLP
+# Bengali Corpus Named Entity Recognition using BNLP
