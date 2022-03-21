@@ -1,6 +1,6 @@
-# Bengali Corpus Named Entity Recognition using BNLP
+# Machine Learning approach to Bengali Corpus NER using BNLP
 
-This is a mini project on Bengali corpus Named Entity Recognition from BNLP (Bengali Natural Language Processing) Toolkit under the mentorship of Prof. Sandipan Ganguly, Heritage Institute of Technology, Kolkata-India.
+This is a mini project on Bengali corpus NER or Named Entity Recognition from BNLP (Bengali Natural Language Processing) Toolkit under the mentorship of Prof. Sandipan Ganguly, Heritage Institute of Technology, Kolkata-India.
 
 ### What is BNLP?
 
@@ -24,7 +24,7 @@ _**BNLP GitHub : https://github.com/sagorbrur/bnlp**___
 
 ## What is NER or Named Entity Recognition?
 
-Named-entity recognition is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
+NER or Named-entity recognition is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
 
 _Information Source: https://en.wikipedia.org/wiki/Named-entity_recognition_
 
