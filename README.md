@@ -35,7 +35,7 @@ _Information Source: https://en.wikipedia.org/wiki/Named-entity_recognition_
 - Then I took a pre-trained model bn_ner.pkl.
 - Took a Bengali Sentence and applied NER on it.
 - Got the output approximately.
-- Applied larger dataset & received most approximate result and even some of the false positive result also.
+- Applied larger dataset & received most approximate results and even some of the false positive results also.
 
 ### Tools:
 
