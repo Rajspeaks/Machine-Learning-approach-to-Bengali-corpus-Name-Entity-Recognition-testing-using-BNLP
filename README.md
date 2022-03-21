@@ -24,7 +24,7 @@ _**BNLP GitHub : https://github.com/sagorbrur/bnlp**___
 
 ## What is NER or Named Entity Recognition?
 
-Named-entity recognition is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc
+Named-entity recognition is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
 
 _Information Source: https://en.wikipedia.org/wiki/Named-entity_recognition_
 
@@ -34,7 +34,8 @@ _Information Source: https://en.wikipedia.org/wiki/Named-entity_recognition_
 - At first I have imported NER from BNLP.
 - Then I took a pre-trained model bn_ner.pkl.
 - Took a Bengali Sentence and applied NER on it.
-- Got the output approximately
+- Got the output approximately.
+- Applied larger dataset & received most approximate result and even some of the false positive result also.
 
 ### Tools:
 
