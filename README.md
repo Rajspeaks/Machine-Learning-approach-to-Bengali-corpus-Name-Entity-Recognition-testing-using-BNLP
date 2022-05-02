@@ -40,7 +40,8 @@ _Information Source: https://en.wikipedia.org/wiki/Named-entity_recognition_
 ### Tools:
 
 1. Jupyter Notebook (You can use Colab also)
-2. BNLP; Link: https://bnlp.readthedocs.io/en/latest/#word-embedding
+2. Language: Python
+3. BNLP; Link: https://bnlp.readthedocs.io/en/latest/#word-embedding
 
 ### Developer:
 
